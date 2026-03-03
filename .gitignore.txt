@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+data/chroma/
+.gradio/
+.pytest_cache/
+dist/
+build/
+*.egg-info/

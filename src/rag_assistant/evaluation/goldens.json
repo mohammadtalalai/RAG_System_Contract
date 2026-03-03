@@ -1,0 +1,6 @@
+[
+  {
+    "question": "What is the governing law mentioned in the document?",
+    "expected_contains": ["law", "jurisdiction"]
+  }
+]
